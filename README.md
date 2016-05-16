@@ -1,2 +1,2 @@
 # sampleGol
-test sample for GO
+test sample for GO project
